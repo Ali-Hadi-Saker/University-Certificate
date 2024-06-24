@@ -1,0 +1,31 @@
+header{
+    color: black;
+    text-align: center;
+}
+#title{
+    padding: 10px;
+    background-color: orange;
+    color: white;
+}
+img{
+    width: 150px;
+    border-radius: 50%;
+}
+nav{
+    background-color: white;
+}
+#Nav_menu{
+    padding: 10px;
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+}
+nav, a{
+    text-decoration: none;
+    color: black;
+}
+#hobbies, #schedule, #material {
+    padding: 10px;
+    background-color: orange;
+    color: white;
+}
